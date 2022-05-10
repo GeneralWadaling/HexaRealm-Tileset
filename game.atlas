@@ -1180,7 +1180,28 @@ TileSets/HexaRealm/Tiles/Polder
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Polder-Industrial era - 複製
+TileSets/HexaRealm/Tiles/Polder-Atomic era
+  rotate: false
+  xy: 577, 517
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Polder-Future era
+  rotate: false
+  xy: 577, 517
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Polder-Industrial era
+  rotate: false
+  xy: 577, 517
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Polder-Information era
   rotate: false
   xy: 577, 517
   size: 64, 56
